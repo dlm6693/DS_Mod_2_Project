@@ -18,3 +18,5 @@ Predicting Tips for NYC yellow cab rides using data provided by the Taxi & Limou
 
 ## Correlation Heat Map ##
 ![chart1](Charts/corr_heatmap.png)<br>
+* Light green means little to no correlation (approaching 0)
+* Dark green, white and red means at least some correlation
