@@ -10,10 +10,10 @@ Predicting Tips for NYC yellow cab rides using data provided by the Taxi & Limou
 * Large data set: almost 9 million records with an initial sample of 250,000 later reduced to 50,000
   * Caused certain algorithms to take a long time to run
 * Tips were not normally distributed
-![chart1](Charts/tip_amount_dist.png)<br>
+![chart1](Charts/tip_amount_dist.png)<br>![chart1](Charts/tip_temp_scatter.png)<br>
 * Many tip amounts just zero as seen above
 * Most engineered features and all inserted variables did not correlate
-![chart1](Charts/tip_temp_scatter.png)<br>
+
 * Transformations of data did nothing to improve models
 
 ## Correlation Heat Map ##
