@@ -38,5 +38,5 @@ Predicting Tips for NYC yellow cab rides using data provided by the Taxi & Limou
 | Model 1 QQ Plot  | Model 2 QQ Plot|
 | -------- | -------- |
 |![chart1](Charts/qq_model1.png) | ![chart1](Charts/qq_model2.png)|
-| Average Error: $0.83 | Average Error: $0.41 |
+| .center[Average Error: $0.83] | .center[Average Error: $0.41] |
 * Both models do a decent job of predicting values that fall within the middle quantitles, but tail off on both ends.
