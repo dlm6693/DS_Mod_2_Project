@@ -40,3 +40,11 @@ Predicting Tips for NYC yellow cab rides using data provided by the Taxi & Limou
 |![chart1](Charts/qq_model1.png) | ![chart1](Charts/qq_model2.png)|
 |      Average Error: $0.83      |      Average Error: $0.41      |
 * Both models do a decent job of predicting values that fall within the middle quantitles, but tail off on both ends.
+
+
+## Takeaways ##
+* Taxi dataset isnt' perfrect: quite possible a number of cab drivers didn't report their tips in order not to be taxed on them
+* Trying to predict instantaneous human decision-making, which tipping often is, is incredibly difficult!
+* Because tip amounts were heavily skewed, using a linear regression model probably is not the best method to create a prediction.
+* The core part of the model in fare amount is arguably not indepdent from tip amount
+* With more time I would deive into different neighborhoods more. Creating dummy variables for each pickup and dropoff location would have created more than 500 to play with. Not ideal for a 3-day project.
