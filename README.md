@@ -25,4 +25,5 @@ Predicting Tips for NYC yellow cab rides using data provided by the Taxi & Limou
  ## Final Models##
 | Model 1  |Model 2 |
 | ------------- | ------------- |
-![chart1](Charts/r2_model1.png) | ![chart1](Charts/r2_model1.png)
+![chart1](Charts/r2_model1.png) | ![chart1](Charts/r2_model2.png)
+![chart1](Charts/coef_model1.png) | ![chart1](Charts/coef_model2.png)
