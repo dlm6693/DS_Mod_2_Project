@@ -43,7 +43,7 @@ Predicting Tips for NYC yellow cab rides using data provided by the Taxi & Limou
 
 
 ## Takeaways ##
-* Taxi dataset isnt' perfrect: quite possible a number of cab drivers didn't report their tips in order not to be taxed on them
+* Taxi dataset isnt' perfect: quite possible a number of cab drivers didn't report their tips in order not to be taxed on them
 * Trying to predict instantaneous human decision-making, which tipping often is, is incredibly difficult!
 * Because tip amounts were heavily skewed, using a linear regression model probably is not the best method to create a prediction.
 * The core part of the model in fare amount is arguably not indepdent from tip amount
