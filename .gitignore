@@ -105,3 +105,4 @@ venv.bak/
 
 #files to ignore
 yellow_tripdata_2018-10.csv
+config.py
