@@ -1,4 +1,4 @@
-# DS_Mod_2_Project
+# Predicting Yellow Cab Ride Tips
 Predicting Tips for NYC yellow cab rides using data provided by the Taxi & Limousine Commission as well as weather data pulled from the Dark Sky API.
 
 ## Methodology ##
